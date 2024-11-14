@@ -28,9 +28,6 @@ The system is evaluated by checking if recommended items match a target item for
 How to Run the Code
 Place items.csv, users.csv, and events.csv in the same directory as the code file.
 
-Run the code:
-python recommender.py
-
 
 The output includes:
 
